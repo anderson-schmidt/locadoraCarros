@@ -1,0 +1,3 @@
+#Proibe o acesso externo a esta pasta
+#hospedado pelo Apache HTTP Server.
+Deny From All
